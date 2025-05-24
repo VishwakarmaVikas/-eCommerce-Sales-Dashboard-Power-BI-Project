@@ -25,13 +25,6 @@ This project is an interactive dashboard built using **Power BI** to analyze eCo
 - Power BI (Data Modeling, DAX, Visualization)
 - Excel (Data Source – optional)
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](images/dashboard.png)
-
-## 📁 File Info
-
-- `ecommerce_dashboard.pbix` – Power BI Dashboard file
 
 ---
 
